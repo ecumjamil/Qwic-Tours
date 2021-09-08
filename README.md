@@ -1,0 +1,2 @@
+# Qwic-Tours
+With this application in place, the customer will be able to search for the nearest courier of their required specifications, be able to negotiate and book them at their comfort. To know how far your goods have reached is an important aspect, whereas the available local services drivers lie when called by the customer to ask how far because they don’t provide tracking ability, with Easy Cargo customer will be able to get an estimated ETA and current location of the driver.
